@@ -29,7 +29,7 @@
       }
     },
     "disabledExtensions": [
-      "@jupyterlab/notebook-extension:open-with-no-kernel",
+      "@jupyterlab/notebook-extension:open-with-no-kernel"
     ]
   }
 }

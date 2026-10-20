@@ -30,7 +30,6 @@
     },
     "disabledExtensions": [
       "@jupyterlab/notebook-extension:open-with-no-kernel",
-      "@jupyterlite/application-extension:opener"
     ]
   }
 }
